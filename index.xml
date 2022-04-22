@@ -9,10 +9,10 @@
     <lastBuildDate>Fri, 22 Apr 2022 15:54:19 +0100</lastBuildDate><atom:link href="https://russellwstanley.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Testpage</title>
-      <link>https://russellwstanley.github.io/post/testpage/</link>
+      <link>https://russellwstanley.github.io/posts/testpage/</link>
       <pubDate>Fri, 22 Apr 2022 15:54:19 +0100</pubDate>
       
-      <guid>https://russellwstanley.github.io/post/testpage/</guid>
+      <guid>https://russellwstanley.github.io/posts/testpage/</guid>
       <description>Hi this is a test page</description>
       <content>&lt;p&gt;Hi this is a test page&lt;/p&gt;
 </content>
