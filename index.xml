@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Terminal</title>
+    <title>Ramblings about Software Development and other things</title>
     <link>https://russellwstanley.github.io/</link>
-    <description>Recent content on Terminal</description>
+    <description>Recent content on Ramblings about Software Development and other things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Apr 2022 15:54:19 +0100</lastBuildDate><atom:link href="https://russellwstanley.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Testpage</title>
+      <title>Coming Soon!</title>
       <link>https://russellwstanley.github.io/posts/testpage/</link>
       <pubDate>Fri, 22 Apr 2022 15:54:19 +0100</pubDate>
       
       <guid>https://russellwstanley.github.io/posts/testpage/</guid>
-      <description>Hi this is a test page</description>
-      <content>&lt;p&gt;Hi this is a test page&lt;/p&gt;
+      <description>Hopefully &amp;hellip;</description>
+      <content>&lt;p&gt;Hopefully &amp;hellip;&lt;/p&gt;
 </content>
     </item>
     
